@@ -21,3 +21,13 @@ Options:
 (E). Very Inaccurate
 
 Answer:
+
+Below are an instruction that describes a task along with a reference answer. Using the reference answer as a guide, write your own response.
+
+### Instruction:
+{instruction}
+
+### Reference Answer:
+{original response}
+
+### Response:
