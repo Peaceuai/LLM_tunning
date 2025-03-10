@@ -43,6 +43,10 @@ conda create -n {虚拟环境名称} python=3.11
 
 这样虚拟环境就创建完成，之后继续在cmd输入
 
+conda activate {虚拟环境名称}
+
+直接进入到该虚拟环境中，之后输入下面指令
+
 pip install open-webui
 
 这样open-webui环境安装完成
