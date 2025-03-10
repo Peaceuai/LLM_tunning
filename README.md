@@ -23,7 +23,7 @@ ollama pull hf.co/{用户名}/{模型名}
 为了防止下载的模型被安装到c盘下占用空间，可以根据google搜索window ollama设置模型安装环境变量
 
 ## open-webui安装
-安装open-webui前，先安装conda，安装一个miniconda就行了
+安装open-webui前，先安装conda，如果已经下载了conda，就不用安装miniconda，如果没用需要安装一个miniconda
 
 下载conda地址：https://www.anaconda.com/download/success
 
